@@ -1,0 +1,3 @@
+# Getting Started
+
+**Installation:** Ensure Python 3.8+ is installed, clone the repository from GitHub...

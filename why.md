@@ -1,0 +1,3 @@
+# Why Catherine AI?
+
+Modern companies face task overload, data leaks, and management complexities...

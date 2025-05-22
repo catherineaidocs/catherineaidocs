@@ -1,0 +1,3 @@
+# Introduction to Catherine AI
+
+Catherine AI is an intelligent voice assistant designed for businesses, helping entrepreneurs solve their tasks efficiently...

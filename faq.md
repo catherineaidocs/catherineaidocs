@@ -1,0 +1,3 @@
+# FAQ
+
+**What industries is Catherine AI suitable for?** Catherine AI is versatile and can be customized for...

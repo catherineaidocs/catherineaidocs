@@ -1,0 +1,3 @@
+# Project History
+
+Catherine AI originated as a concept to create a secure, offline voice assistant for businesses...

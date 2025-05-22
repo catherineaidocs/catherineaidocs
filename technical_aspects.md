@@ -1,0 +1,3 @@
+# Technical Aspects
+
+Catherine AI is built with cutting-edge technology to ensure continuous improvement...

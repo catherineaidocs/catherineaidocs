@@ -1,0 +1,3 @@
+# Core Features
+
+Catherine AI is designed to streamline business operations with its robust core features...

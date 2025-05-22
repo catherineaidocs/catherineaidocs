@@ -1,0 +1,3 @@
+# Advanced Capabilities
+
+Catherine AI offers advanced features to customize and enhance its functionality...
