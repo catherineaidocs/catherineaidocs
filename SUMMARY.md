@@ -11,5 +11,4 @@
 * [Security and Privacy](security-and-privacy.md)
 * [Catherine AI in Action](catherine-ai-in-action.md)
 * [FAQ](faq.md)
-* [Terms of Use](terms-of-use.md)
 * [Contact Us](contact-us.md)
